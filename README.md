@@ -32,6 +32,7 @@ This is a set of training material to learn .NET basics.
   - [CLR](https://docs.microsoft.com/en-us/dotnet/standard/clr)
   - [Configuration](https://docs.microsoft.com/en-us/dotnet/core/extensions/configuration)
   - [Dependency injection](https://docs.microsoft.com/en-us/dotnet/core/extensions/dependency-injection)
+  - [Docker](https://docs.microsoft.com/en-us/dotnet/core/docker/introduction)
   - [Logging](https://docs.microsoft.com/en-us/dotnet/core/extensions/logging)
   - [Publish](https://docs.microsoft.com/en-us/dotnet/core/deploying/deploy-with-cli)
   - [Testing](https://docs.microsoft.com/en-us/dotnet/core/testing/)
